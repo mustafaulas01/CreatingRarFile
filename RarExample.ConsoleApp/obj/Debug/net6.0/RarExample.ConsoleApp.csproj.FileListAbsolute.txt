@@ -1,0 +1,14 @@
+C:\Users\Mustafa\Desktop\RarExample\RarExample.ConsoleApp\bin\Debug\net6.0\RarExample.ConsoleApp.exe
+C:\Users\Mustafa\Desktop\RarExample\RarExample.ConsoleApp\bin\Debug\net6.0\RarExample.ConsoleApp.deps.json
+C:\Users\Mustafa\Desktop\RarExample\RarExample.ConsoleApp\bin\Debug\net6.0\RarExample.ConsoleApp.runtimeconfig.json
+C:\Users\Mustafa\Desktop\RarExample\RarExample.ConsoleApp\bin\Debug\net6.0\RarExample.ConsoleApp.dll
+C:\Users\Mustafa\Desktop\RarExample\RarExample.ConsoleApp\bin\Debug\net6.0\RarExample.ConsoleApp.pdb
+C:\Users\Mustafa\Desktop\RarExample\RarExample.ConsoleApp\obj\Debug\net6.0\RarExample.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Desktop\RarExample\RarExample.ConsoleApp\obj\Debug\net6.0\RarExample.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Desktop\RarExample\RarExample.ConsoleApp\obj\Debug\net6.0\RarExample.ConsoleApp.AssemblyInfo.cs
+C:\Users\Mustafa\Desktop\RarExample\RarExample.ConsoleApp\obj\Debug\net6.0\RarExample.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\RarExample\RarExample.ConsoleApp\obj\Debug\net6.0\RarExample.ConsoleApp.dll
+C:\Users\Mustafa\Desktop\RarExample\RarExample.ConsoleApp\obj\Debug\net6.0\refint\RarExample.ConsoleApp.dll
+C:\Users\Mustafa\Desktop\RarExample\RarExample.ConsoleApp\obj\Debug\net6.0\RarExample.ConsoleApp.pdb
+C:\Users\Mustafa\Desktop\RarExample\RarExample.ConsoleApp\obj\Debug\net6.0\RarExample.ConsoleApp.genruntimeconfig.cache
+C:\Users\Mustafa\Desktop\RarExample\RarExample.ConsoleApp\obj\Debug\net6.0\ref\RarExample.ConsoleApp.dll
